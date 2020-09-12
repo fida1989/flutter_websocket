@@ -2,10 +2,8 @@
 
 Flutter WebSocket Demo
 
-## Library:
-https://pub.dev/packages/websocket_manager
+## Screenshot:
+![Screenshot](Screenshot.png)
 
-## WebSocket Endpoint:
-wss://echo.websocket.org
 
 
